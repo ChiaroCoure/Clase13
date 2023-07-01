@@ -1,5 +1,5 @@
 let soyUn = require("./un.js");
 
-let pescao = soyUn + " pescao."; 
+let pescao = soyUn + "sabalo"; 
 
 console.log(pescao);
